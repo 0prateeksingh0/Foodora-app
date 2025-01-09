@@ -29,4 +29,3 @@ Check out the live demo: [Foodora App](https://foodora.onrender.com)
 - **MongoDB**
 - **Mongoose**
 
-## 📂 Project Structure
